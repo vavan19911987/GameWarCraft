@@ -1,10 +1,10 @@
 import Phaser from 'phaser';
-import '../src/style.css'
+import './style.css'
 import {scenes} from "./scenes";
 
 
 new Phaser.Game({
-    width: 800,
+    width: 950,
     height: 600,
     title: 'Phaser RPG',
     scene: scenes,
