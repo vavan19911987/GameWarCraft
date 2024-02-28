@@ -4,7 +4,7 @@ import {scenes} from "./scenes";
 
 
 new Phaser.Game({
-    width: 950,
+    width: 800,
     height: 600,
     title: 'Phaser RPG',
     scene: scenes,

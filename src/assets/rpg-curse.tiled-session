@@ -3,17 +3,30 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "durotar.json",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "durotar.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 512.5,
+                "y": 225.5
+            }
+        },
+        "durotar.json#durotar": {
+            "scaleInDock": 3
+        }
     },
     "last.imagePath": "D:/Scooll/lessonsYouTube/GameWarCraft/src/assets",
     "map.lastUsedFormat": "json",
     "openFiles": [
+        "durotar.json"
     ],
     "project": "rpg-curse.tiled-project",
     "recentFiles": [
+        "durotar.json"
     ],
     "tileset.embedInMap": true,
     "tileset.spacing": 1
