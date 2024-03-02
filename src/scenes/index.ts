@@ -1,3 +1,3 @@
-import {Durotar} from "./durotar.ts";
+import {Summer} from "./summer.ts";
 
-export const scenes = [Durotar];
+export const scenes = [Summer];

@@ -1,0 +1,50 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "summer.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "durotar.json": {
+            "scale": 0.9401041666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.2659279778394,
+                "y": 347.3019390581718
+            }
+        },
+        "durotar.json#durotar": {
+            "scaleInDock": 1
+        },
+        "summer.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1166,
+                "y": 722
+            }
+        },
+        "summer.json#Summer_Tiles": {
+            "scaleInDock": 1
+        },
+        "summer.json#summer": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "D:/Scooll/lessonsYouTube/GameWarCraft/src/assets",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "summer.json"
+    ],
+    "project": "summer.tiled-project",
+    "recentFiles": [
+        "summer.json",
+        "durotar.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.spacing": 1
+}

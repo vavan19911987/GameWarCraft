@@ -1,5 +1,6 @@
 export const TILES = {
-    DUROTAR: 'durotar'
+    DUROTAR: 'durotar',
+    SUMMER: 'summer'
     //     нужно пткатиться назад по комиттам
 }
 
