@@ -4,7 +4,7 @@ import {SPRITES} from "../utils/constants.ts";
 
 export class Player extends Entity {
     textureKey: string;
-    private moveSpeed: number;
+    moveSpeed: number;
     constructor(scene: Phaser.Scene, x: number, y: number, texture: string) {
         super(scene, x, y, texture, SPRITES.PLAYER);
         const anims = this.scene.anims;

@@ -9,6 +9,10 @@ export const SIZES = {
     PLAYER: {
         WIDTH: 48,
         HEIGHT: 48,
+    },
+    MISHA: {
+        WIDTH: 32,
+        HEIGHT: 32
     }
 }
 
@@ -19,4 +23,7 @@ export const LAYERS = {
 
 export const SPRITES = {
     PLAYER: 'player',
+    MISHA: {
+        base: 'misha',
+    },
 }
